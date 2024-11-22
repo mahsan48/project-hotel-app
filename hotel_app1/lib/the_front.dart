@@ -12,6 +12,7 @@ class HotelBookingScreen extends StatelessWidget {
             image: AssetImage("assets/newdesign3.jpg"),
             fit: BoxFit.cover,
           ),
+          // hello
         ),
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
