@@ -2,10 +2,10 @@ import 'package:flutter/material.dart';
 import 'the_front.dart';
 
 void main() {
-  runApp(myapp());
+  runApp(Myapp());
 }
 
-class myapp extends StatelessWidget {
+class Myapp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
