@@ -65,6 +65,9 @@ flutter:
      - assets/newdesign1.jpg
      - assets/newdesign2.jpg
      - assets/newdesign3.jpg
+     - assets/m1.jpg
+     - assets/m2.jpg
+     - assets/m3.jpg
   #   - images/a_dot_ham.jpeg
     
 
